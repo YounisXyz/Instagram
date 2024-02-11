@@ -22,6 +22,7 @@
 - `pip install rich`
 - `pip install stdiomask`
 - `pip install httpx`
+- `pip install idna`
 - `pip install bs4`
 - `pip install requests`
 - `pip install mechanize`
