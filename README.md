@@ -40,7 +40,7 @@
 - `python Insta.py`
 
 # IMAGES
-<img src="https://github.com/YounisXyz/Instagram/blob/main/Picsart_24-02-07_13-40-04-725.jpg" alt="" border="0" />
+<img src="https://github.com/YounisXyz/Instagram/blob/c120a83ef30e7f915c530bc494a9e24d8835115e/Picsart_24-02-11_09-39-46-142.jpg" alt="" border="0" />
 
 ```
     - login type
