@@ -18,6 +18,6 @@ git clone https://github.com/YounisXyz/Xyz
 cd Xyz
 python Xyz.py""")
 
-print("\033[0;97mCopy This Command and Run")
+print("\033[0;97m\n\nCopy This Command and Run")
 print("\033[0;97mContact to Admin on WhatsApp For any Error: +923404708884")
-exit("\033[1;92m Thanks For Using YounisXyz Tools ❤️💀")
+exit("\033[1;92mThanks For Using YounisXyz Tools 🥰🌻🥀")
